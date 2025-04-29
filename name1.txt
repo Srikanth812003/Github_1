@@ -5,9 +5,3 @@ srikanth is my name
 i was born in Kerala
 i like llama by meta .
 i love to eat icecream
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 02419e17455bf37fbda677166d7c901da76818d7
-
